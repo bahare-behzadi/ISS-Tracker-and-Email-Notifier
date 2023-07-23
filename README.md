@@ -1,7 +1,7 @@
 # ISS-Tracker-and-Email-Notifier
-#Overview
+Overview
 The ISS (International Space Station) Tracker and Email Notifier is a Python program that allows you to monitor whether the ISS is passing above your position at night. If the ISS is visible from your location, the program will send you an email notification, prompting you to check out the ISS as it passes overhead
-#Prerequisites
+Prerequisites
 Before running the ISS Tracker and Email Notifier, make sure you have the following:
 
 Python: Ensure you have Python installed on your system. The program is developed using Python 3, so Python 3.x or higher is recommended.
